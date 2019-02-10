@@ -1,0 +1,15 @@
+{
+  "name": "chromecast-controls",
+  "version": "1.0.0",
+  "description": "A simple script that lets you play a video on your Chromecast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromecast-api": "^0.2.5",
+    "inquirer": "^6.2.2"
+  }
+}
